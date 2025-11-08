@@ -1,0 +1,33 @@
+variables, types, strings,
+conditions, if, else, elif
+loops (for while) , range , in keyword
+comparison and assigning operators ==,=,>,>=, !=
+
+string and substring comprehention
+functions , defaults, returns, paramenters,arguments   random
+sets, dictionaries, lists, tuples adding, removing, creating
+match cases
+file handling, open write read, append
+import, multi-file usage
+
+recursion and multirecursion
+classes, inheritence, methods, multinheritence, contructors
+datastructures, linked list, trees, queues, graphs, hash maps
+
+testing and debugging with pytest
+
+conprehensions, generator expressions
+
+
+
+specialization:
+pygame
+api with fast and flask
+threading
+turtle?
+
+
+
+tolearn: 
+decorators
+iterators
